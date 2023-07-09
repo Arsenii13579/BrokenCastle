@@ -1,1 +1,5 @@
 print("Hello World")
+if shoot
+{
+	print("kill_all")
+}
